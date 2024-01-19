@@ -3,11 +3,11 @@ This C++ program allows you to play the game using the command prompt. The game 
 
 ## To control the snake, use the following keys:
 
-'a': Move left
-'d': Move right
-'w': Move up
-'s': Move down
-'p': PAUSE
+'a': Move left           
+'d': Move right           
+'w': Move up            
+'s': Move down              
+'p': PAUSE        
 
 If the snake eats the fruit (represented by an 'F'), it will grow and your score will increase also speed of snake increases. 
 The game will also end if the snake collides with the grid boundaries or itself.
